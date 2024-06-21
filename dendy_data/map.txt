@@ -1,0 +1,13 @@
+const int height = 8;
+const int width = 48;
+
+char tilemap[height][width] = {
+"                                               ",
+"               ttt    tt                       ",
+"                                               ",
+"tt  ttttttt  tttt  ttttttt  tttt  ttttttt  tttt",
+"ooooooooooooooooooooooooooooooooooooooooooooooo",
+"oootttoooooooooooooooooooottoooooottooooottoott",
+"tooooooottooooooooootttooooooottoooooottooooott",
+"ttttttttttttttttttttttttttttttttttttttttttttttt"
+};
